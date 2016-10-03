@@ -1,4 +1,4 @@
-
+﻿
 package u3_ed_03_1;
 
 import java.util.Scanner;
@@ -26,6 +26,7 @@ public class U3_ED_03_1 {
             System.out.println("5. QUE ELEMENTO ESTA EN TOPE");
             System.out.println("6. CAPACIDAD");
             System.out.println("7. SALIR");
+	System.out.println("Aprendiendo github");
             
         
             opcion=leer.nextInt();
